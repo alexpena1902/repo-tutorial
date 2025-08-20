@@ -1,4 +1,4 @@
-# GIT TUTORIAL
+# GIT BASISCS TUTORIAL
 
 This repository is my personal tutorial for learning **Git** step by step
 
@@ -10,6 +10,7 @@ Ill be practicing the basis sucha as:
 - Working with branches  
 - Pushing changes to GitHub
 
+---
 
 # MAIN GOAL
 
