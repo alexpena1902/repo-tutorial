@@ -16,3 +16,7 @@ Ill be practicing the basis sucha as:
 
 The main goal of this repo is to **understand how Git works** and get comfortable using it in daily projects.  
 
+# CLONING IN VS CODE
+
+This a a test for cloning a file from githum.com to **VsCode**, doing some changes and then saving them again on the website
+
