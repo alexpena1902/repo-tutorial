@@ -1,4 +1,4 @@
-# GIT BASISCS TUTORIAL
+# GIT BASICS TUTORIAL
 
 This repository is my personal tutorial for learning **Git** step by step
 
